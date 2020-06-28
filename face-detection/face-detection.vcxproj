@@ -81,13 +81,13 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\Vansh Jain\projects\c\opencv\install\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Vansh Jain\projects\c\opencv\install\x64\vc16\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Vansh Jain\opencv\build\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Vansh Jain\opencv\build\x64\vc16\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>C:\Users\Vansh Jain\projects\c\opencv\install\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Vansh Jain\projects\c\opencv\install\x64\vc16\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Vansh Jain\opencv\build\include\opencv2;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Vansh Jain\opencv\build\x64\vc16\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
