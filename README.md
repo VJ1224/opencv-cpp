@@ -1,10 +1,8 @@
-# OpenCV Projects in C++
+# OpenCV Projects in C++ and Python
 
-Projects created using the OpenCV library in C++
+Projects created using the OpenCV library
 
 
 ## Requirements
 
 * [OpenCV](https://github.com/opencv/opencv)
-
-* [Visual Studio](https://visualstudio.microsoft.com/downloads/)
