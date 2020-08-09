@@ -1,5 +1,5 @@
 ****data/
-
+*.mp4
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,c++,opencv
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,c++,opencv
